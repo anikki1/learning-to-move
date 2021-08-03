@@ -6,4 +6,4 @@
 
 Lets try [linking things](http://google.com)
 
-[image](emptyfolder/Screen%20Shot%202021-06-29%20at%208.51.16%20PM.png)
+[image](Screen%20Shot%202021-06-29%20at%208.51.16%20PM.png)
